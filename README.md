@@ -46,7 +46,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="40" height="40" /> </a><br><br>
     <p><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=metaghost404&show_icons=true&locale=en&layout=compact"
-            alt="metaghost404" /></p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metaghost404&"
-            alt="metaghost404" /></p>
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=aliiugur&show_icons=true&locale=en&layout=compact"
+            alt="aliiugur" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiugur&"
+            alt="aliiugur" /></p>
