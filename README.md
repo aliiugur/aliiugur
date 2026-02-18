@@ -2,12 +2,12 @@
 <div align="center">
 
 ```
- █████╗ ██╗     ██╗     ██╗ ██████╗ ██╗   ██╗██████╗ 
-██╔══██╗██║     ██║     ██║██╔════╝ ██║   ██║██╔══██╗
-███████║██║     ██║     ██║██║  ███╗██║   ██║██████╔╝
-██╔══██║██║     ██║     ██║██║   ██║██║   ██║██╔══██╗
-██║  ██║███████╗███████╗██║╚██████╔╝╚██████╔╝██║  ██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+ █████╗ ██╗      ██╗    ██╗   ██╗ ██████╗ ██╗   ██╗██████╗ 
+██╔══██╗██║      ██║    ██║   ██║██╔════╝ ██║   ██║██╔══██╗
+███████║██║      ██║    ██║   ██║██║  ███╗██║   ██║██████╔╝
+██╔══██║██║      ██║    ██║   ██║██║   ██║██║   ██║██╔══██╗
+██║  ██║███████╗ ██╗    ╚██████╔╝╚██████╔╝╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚══════╝ ╚═╝     ╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═╝
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;Mobile+%26+Backend+Solutions;Clean+Code+Enthusiast;Bursa%2C+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
