@@ -1,40 +1,103 @@
-<div>
-  <div align="center">
-  
-    <pre>
-        _    _     ___   _   _  ____ _   _ ____  
-       / \  | |   |_ _| | | | |/ ___| | | |  _ \ 
-      / _ \ | |    | |  | | | | |  _| | | | |_) |
-     / ___ \| |___ | |  | |_| | |_| | |_| |  _ < 
-    /_/   \_\_____|___|  \___/ \____|\___/|_| \_\
-    </pre>
-    
-    <img width="832" height="373" alt="image" src="https://github.com/user-attachments/assets/b800855c-46d5-461b-b756-a7206b29c3ad" />
-  
-    
-    <br>
-  </div>
-  <div>
-    ```python
-    >>> import skills
-    >>> print(skills.experience)
-    { 
-      'languages': ['Python', 'JavaScript', 'C#', 'Dart'],
-      'frameworks': ['Flutter', 'Django', 'React'],
-      'tools': ['Git', 'Docker', 'Shopify', 'Selenium'] 
-    }
-    
-    ## HAKKIMDA
-    Bursa merkezli bir yazılım geliştiriciyim. Python, Dart ve Flutter gibi teknolojilerle mobil ve backend çözümleri üretiyorum. Fonksiyonelliği ve temiz kodu her zaman önceliklendiririm.
-    
-    ## TEKNOLOJİLERİM
-    Kategori	    Teknolojiler
-    Diller	      Python, JavaScript, C#, Dart
-    Frameworkler	Django, Flutter, React
-    Araçlar	      Git, Docker, Shopify, Selenium
-    ```  
-  </div>
+<!-- Header -->
+<div align="center">
+
+```
+ █████╗ ██╗     ██╗     ██╗ ██████╗ ██╗   ██╗██████╗ 
+██╔══██╗██║     ██║     ██║██╔════╝ ██║   ██║██╔══██╗
+███████║██║     ██║     ██║██║  ███╗██║   ██║██████╔╝
+██╔══██║██║     ██║     ██║██║   ██║██║   ██║██╔══██╗
+██║  ██║███████╗███████╗██║╚██████╔╝╚██████╔╝██║  ██║
+╚═╝  ╚═╝╚══════╝╚══════╝╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3572A5&center=true&vCenter=true&width=500&lines=Python+Developer+%F0%9F%90%8D;Mobile+%26+Backend+Solutions;Clean+Code+Enthusiast;Bursa%2C+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
+---
 
+## `>>> import me`
 
+```python
+class Developer:
+    def __init__(self):
+        self.name        = "Alligur"
+        self.location    = "Bursa, Türkiye 🇹🇷"
+        self.role        = "Software Developer"
+        self.focus       = ["Mobile Apps", "Backend Systems", "Clean Code"]
+
+    @property
+    def skills(self) -> dict:
+        return {
+            "languages"  : ["Python 🐍", "Dart", "JavaScript", "C#"],
+            "frameworks" : ["Django", "Flutter", "React"],
+            "tools"      : ["Git", "Docker", "Selenium", "Shopify"],
+        }
+
+    def __str__(self):
+        return "Fonksiyonelliği ve temiz kodu her zaman önceliklendiririm."
+
+me = Developer()
+print(me)
+# → Fonksiyonelliği ve temiz kodu her zaman önceliklendiririm.
+```
+
+---
+
+## `>>> me.skills`
+
+<div align="center">
+
+| 🐍 Diller | ⚙️ Frameworkler | 🛠️ Araçlar |
+|:---------:|:---------------:|:----------:|
+| Python    | Django          | Git        |
+| Dart      | Flutter         | Docker     |
+| JavaScript| React           | Selenium   |
+| C#        |                 | Shopify    |
+
+</div>
+
+---
+
+## `>>> me.github_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alligur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3572A5&icon_color=3572A5" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alligur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3572A5" height="160"/>
+
+</div>
+
+---
+
+## `>>> me.current_focus`
+
+```python
+currently_working_on = [
+    "🔧 Backend APIs with Django REST Framework",
+    "📱 Cross-platform apps with Flutter",
+    "🤖 Automation scripts with Python & Selenium",
+]
+
+for task in currently_working_on:
+    print(f"  {task}")
+```
+
+---
+
+<div align="center">
+
+![](https://github.com/alligur/github-readme-activity-graph/blob/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
