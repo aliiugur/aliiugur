@@ -12,24 +12,24 @@
 
   
   <br>
-  
-  ```python
-  >>> import skills
-  >>> print(skills.experience)
-  { 
-    'languages': ['Python', 'JavaScript', 'C#', 'Dart'],
-    'frameworks': ['Flutter', 'Django', 'React'],
-    'tools': ['Git', 'Docker', 'Shopify', 'Selenium'] 
-  }
+</div>  
+```python
+>>> import skills
+>>> print(skills.experience)
+{ 
+  'languages': ['Python', 'JavaScript', 'C#', 'Dart'],
+  'frameworks': ['Flutter', 'Django', 'React'],
+  'tools': ['Git', 'Docker', 'Shopify', 'Selenium'] 
+}
 
-  ## HAKKIMDA
-  Bursa merkezli bir yazılım geliştiriciyim. Python, Dart ve Flutter gibi teknolojilerle mobil ve backend çözümleri üretiyorum. Fonksiyonelliği ve temiz kodu her zaman önceliklendiririm.
+## HAKKIMDA
+Bursa merkezli bir yazılım geliştiriciyim. Python, Dart ve Flutter gibi teknolojilerle mobil ve backend çözümleri üretiyorum. Fonksiyonelliği ve temiz kodu her zaman önceliklendiririm.
 
-  ## TEKNOLOJİLERİM
-  Kategori	    Teknolojiler
-  Diller	      Python, JavaScript, C#, Dart
-  Frameworkler	Django, Flutter, React
-  Araçlar	      Git, Docker, Shopify, Selenium
-  ```
+## TEKNOLOJİLERİM
+Kategori	    Teknolojiler
+Diller	      Python, JavaScript, C#, Dart
+Frameworkler	Django, Flutter, React
+Araçlar	      Git, Docker, Shopify, Selenium
+```
 
-</div>
+
