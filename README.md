@@ -1,22 +1,35 @@
-<div align="center" color:"#ff0000">
+<div align="center">
 
-<pre>
-  _____ _   _ _____ ____     _____ ____  ____   ___   ____  ____  _   _ 
- | ____| \ | | ____/ ___|   | ____|  _ \|  _ \ / _ \ / ___||  _ \| | | |
- |  _| |  \| |  _| \___ \   |  _| | |_) | | | | | | | |  _ | | | | | | |
- | |___| |\  | |___ ___) |  | |___|  _ <| |_| | |_| | |_| || |_| | |_| |
- |_____|_| \_|_____|____/   |_____|_| \_\____/ \___/ \____||____/ \___/ 
-</pre>
+  <pre>
+      _    _     ___   _   _  ____ _   _ ____  
+     / \  | |   |_ _| | | | |/ ___| | | |  _ \ 
+    / _ \ | |    | |  | | | | |  _| | | | |_) |
+   / ___ \| |___ | |  | |_| | |_| | |_| |  _ < 
+  /_/   \_\_____|___|  \___/ \____|\___/|_| \_\
+  </pre>
+  
+  <img width="832" height="373" alt="image" src="https://github.com/user-attachments/assets/b800855c-46d5-461b-b756-a7206b29c3ad" />
 
-<img src="resim_linki_buraya.png" alt="Software Engineer Banner" width="80%">
+  
+  <br>
+  
+  ```python
+  >>> import skills
+  >>> print(skills.experience)
+  { 
+    'languages': ['Python', 'JavaScript', 'C#', 'Dart'],
+    'frameworks': ['Flutter', 'Django', 'React'],
+    'tools': ['Git', 'Docker', 'Shopify', 'Selenium'] 
+  }
 
-<br>
+  ## HAKKIMDA
+  Bursa merkezli bir yazılım geliştiriciyim. Python, Dart ve Flutter gibi teknolojilerle mobil ve backend çözümleri üretiyorum. Fonksiyonelliği ve temiz kodu her zaman önceliklendiririm.
 
-```python
->>> import skills
->>> print(skills.experience)
-{ 
-  'languages': ['Python', 'JavaScript', 'C#', 'Dart'],
-  'frameworks': ['Flutter', 'Django', 'React'],
-  'tools': ['Git', 'Docker', 'Shopify', 'Selenium'] 
-}
+  ## TEKNOLOJİLERİM
+  Kategori	    Teknolojiler
+  Diller	      Python, JavaScript, C#, Dart
+  Frameworkler	Django, Flutter, React
+  Araçlar	      Git, Docker, Shopify, Selenium
+  ```
+
+</div>
