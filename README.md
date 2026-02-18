@@ -12,7 +12,8 @@
 
   
   <br>
-</div>  
+</div>
+<div>
 ```python
 >>> import skills
 >>> print(skills.experience)
@@ -30,6 +31,8 @@ Kategori	    Teknolojiler
 Diller	      Python, JavaScript, C#, Dart
 Frameworkler	Django, Flutter, React
 Araçlar	      Git, Docker, Shopify, Selenium
-```
+```  
+</div>
+
 
 
