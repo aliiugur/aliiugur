@@ -16,6 +16,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -60,22 +61,12 @@ print(me)
 | Python    | Django          | Git        |
 | Dart      | Flutter         | Docker     |
 | JavaScript| React           | Selenium   |
-| C#        |                 | Shopify    |
+| C#        |                 |            |
 
 </div>
 
 ---
 
-## `>>> me.github_stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alligur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3572A5&icon_color=3572A5" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alligur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3572A5" height="160"/>
-
-</div>
-
----
 
 ## `>>> me.current_focus`
 
